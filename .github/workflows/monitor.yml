@@ -10,7 +10,11 @@ on:
     - cron: "*/5 * * * *"
 
 permissions:
-  contents: read
+  contents: write
+
+concurrency:
+  group: eurusd-monitor
+  cancel-in-progress: false
 
 jobs:
   monitor:
@@ -20,17 +24,28 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Show repository files
-        run: |
-          echo "Current directory:"
-          pwd
-          echo "Files in repository:"
-          ls -la
-          echo "Python monitor file:"
-          find . -maxdepth 3 -iname 'monitor.py' -print
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
 
       - name: Run monitor
         run: python ./monitor.py
+
+      - name: Show report
+        run: cat report.json
+
+      - name: Save history to GitHub
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add history.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update EURUSD candle history"
+            git push
+          else
+            echo "No history changes to save"
+          fi
 
       - name: Upload report
         if: always()
