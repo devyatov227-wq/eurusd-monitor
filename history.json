@@ -1,7 +1,7 @@
 {
   "symbol": "EURUSD",
   "interval": "1m",
-  "updated_at": "2026-10-30T14:20:34.151821+00:00",
+  "updated_at": "2026-10-30T14:31:52.856648+00:00",
   "candles": [
     {
       "openTime": "2026-10-30T12:40:00Z",
@@ -1001,6 +1001,116 @@
       "close": 1.11414,
       "volume": 0,
       "tickVolume": 95,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-10-30T14:20:00Z",
+      "open": 1.11416,
+      "high": 1.11433,
+      "low": 1.11409,
+      "close": 1.11432,
+      "volume": 0,
+      "tickVolume": 103,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-10-30T14:21:00Z",
+      "open": 1.11431,
+      "high": 1.11436,
+      "low": 1.11405,
+      "close": 1.11407,
+      "volume": 0,
+      "tickVolume": 93,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-10-30T14:22:00Z",
+      "open": 1.11409,
+      "high": 1.11415,
+      "low": 1.11398,
+      "close": 1.1141,
+      "volume": 0,
+      "tickVolume": 110,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-10-30T14:23:00Z",
+      "open": 1.11408,
+      "high": 1.11426,
+      "low": 1.11404,
+      "close": 1.11419,
+      "volume": 0,
+      "tickVolume": 85,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-10-30T14:24:00Z",
+      "open": 1.11421,
+      "high": 1.11435,
+      "low": 1.11419,
+      "close": 1.1143,
+      "volume": 0,
+      "tickVolume": 99,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-10-30T14:25:00Z",
+      "open": 1.11431,
+      "high": 1.11443,
+      "low": 1.11424,
+      "close": 1.11434,
+      "volume": 0,
+      "tickVolume": 85,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-10-30T14:26:00Z",
+      "open": 1.11435,
+      "high": 1.11435,
+      "low": 1.11402,
+      "close": 1.11413,
+      "volume": 0,
+      "tickVolume": 96,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-10-30T14:27:00Z",
+      "open": 1.11413,
+      "high": 1.11458,
+      "low": 1.11404,
+      "close": 1.11455,
+      "volume": 0,
+      "tickVolume": 120,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-10-30T14:28:00Z",
+      "open": 1.11456,
+      "high": 1.11466,
+      "low": 1.11428,
+      "close": 1.11438,
+      "volume": 0,
+      "tickVolume": 121,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-10-30T14:29:00Z",
+      "open": 1.11439,
+      "high": 1.1146,
+      "low": 1.11439,
+      "close": 1.11447,
+      "volume": 0,
+      "tickVolume": 100,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-10-30T14:30:00Z",
+      "open": 1.1145,
+      "high": 1.11508,
+      "low": 1.1145,
+      "close": 1.115,
+      "volume": 0,
+      "tickVolume": 119,
       "isOpen": false
     }
   ]
