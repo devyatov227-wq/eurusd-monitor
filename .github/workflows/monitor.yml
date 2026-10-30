@@ -3,6 +3,9 @@ name: EURUSD read-only monitor
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "*/5 * * * *"
 
@@ -12,17 +15,22 @@ permissions:
 jobs:
   monitor:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
+      - name: Show repository files
+        run: |
+          echo "Current directory:"
+          pwd
+          echo "Files in repository:"
+          ls -la
+          echo "Python monitor file:"
+          find . -maxdepth 3 -iname 'monitor.py' -print
 
       - name: Run monitor
-        run: python monitor.py
+        run: python ./monitor.py
 
       - name: Upload report
         if: always()
