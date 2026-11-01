@@ -1,3 +1,44 @@
+
+name: EURUSD monitor
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: eurusd-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run monitor
+        run: python ./monitor.py
+
+      - name: Show report
+        run: |
+          if [ -f report.json ]; then
+            cat report.json
+          else
+            echo "report.json not found"
+          fi
+
       - name: Save history to GitHub
         run: |
           cp history.json /tmp/local-history.json
@@ -23,7 +64,10 @@
               **local,
               "symbol": local.get("symbol", remote.get("symbol", "EURUSD")),
               "interval": local.get("interval", remote.get("interval", "1m")),
-              "candles": sorted(candles.values(), key=lambda x: x["openTime"])[-10000:]
+              "candles": sorted(
+                  candles.values(),
+                  key=lambda x: x["openTime"]
+              )[-10000:]
           }
 
           remote_path.write_text(json.dumps(result, indent=2) + "\n")
@@ -51,3 +95,12 @@
 
           echo "Could not save history after 3 attempts"
           exit 1
+
+      - name: Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: eurusd-report
+          path: report.json
+          if-no-files-found: ignore
+          retention-days: 7
