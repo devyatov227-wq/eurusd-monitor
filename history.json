@@ -1,7 +1,7 @@
 {
   "symbol": "EURUSD",
   "interval": "1m",
-  "updated_at": "2026-11-16T03:01:49.391464+00:00",
+  "updated_at": "2026-11-16T10:57:51.697853+00:00",
   "candles": [
     {
       "openTime": "2026-10-30T12:40:00Z",
@@ -42701,6 +42701,1006 @@
       "close": 1.10204,
       "volume": 0.0,
       "tickVolume": 39,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:17:00Z",
+      "open": 1.1023,
+      "high": 1.10231,
+      "low": 1.10222,
+      "close": 1.10228,
+      "volume": 0.0,
+      "tickVolume": 59,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:18:00Z",
+      "open": 1.10228,
+      "high": 1.1023,
+      "low": 1.10224,
+      "close": 1.10228,
+      "volume": 0.0,
+      "tickVolume": 51,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:19:00Z",
+      "open": 1.10228,
+      "high": 1.10231,
+      "low": 1.10224,
+      "close": 1.10225,
+      "volume": 0.0,
+      "tickVolume": 38,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:20:00Z",
+      "open": 1.10226,
+      "high": 1.10229,
+      "low": 1.10214,
+      "close": 1.10215,
+      "volume": 0.0,
+      "tickVolume": 66,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:21:00Z",
+      "open": 1.10216,
+      "high": 1.10217,
+      "low": 1.10203,
+      "close": 1.10208,
+      "volume": 0.0,
+      "tickVolume": 59,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:22:00Z",
+      "open": 1.1021,
+      "high": 1.10217,
+      "low": 1.1021,
+      "close": 1.10212,
+      "volume": 0.0,
+      "tickVolume": 46,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:23:00Z",
+      "open": 1.10212,
+      "high": 1.10227,
+      "low": 1.10212,
+      "close": 1.10215,
+      "volume": 0.0,
+      "tickVolume": 62,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:24:00Z",
+      "open": 1.10216,
+      "high": 1.10223,
+      "low": 1.10215,
+      "close": 1.10218,
+      "volume": 0.0,
+      "tickVolume": 52,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:25:00Z",
+      "open": 1.10219,
+      "high": 1.10223,
+      "low": 1.10202,
+      "close": 1.10205,
+      "volume": 0.0,
+      "tickVolume": 65,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:26:00Z",
+      "open": 1.10206,
+      "high": 1.10206,
+      "low": 1.1019,
+      "close": 1.1019,
+      "volume": 0.0,
+      "tickVolume": 53,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:27:00Z",
+      "open": 1.10192,
+      "high": 1.10192,
+      "low": 1.10159,
+      "close": 1.1016,
+      "volume": 0.0,
+      "tickVolume": 74,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:28:00Z",
+      "open": 1.10161,
+      "high": 1.10166,
+      "low": 1.10148,
+      "close": 1.10148,
+      "volume": 0.0,
+      "tickVolume": 68,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:29:00Z",
+      "open": 1.10147,
+      "high": 1.10166,
+      "low": 1.10142,
+      "close": 1.10166,
+      "volume": 0.0,
+      "tickVolume": 81,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:30:00Z",
+      "open": 1.10165,
+      "high": 1.10166,
+      "low": 1.10141,
+      "close": 1.10147,
+      "volume": 0.0,
+      "tickVolume": 81,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:31:00Z",
+      "open": 1.10149,
+      "high": 1.10162,
+      "low": 1.10149,
+      "close": 1.10156,
+      "volume": 0.0,
+      "tickVolume": 65,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:32:00Z",
+      "open": 1.10156,
+      "high": 1.10163,
+      "low": 1.10149,
+      "close": 1.10163,
+      "volume": 0.0,
+      "tickVolume": 58,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:33:00Z",
+      "open": 1.10163,
+      "high": 1.10163,
+      "low": 1.10143,
+      "close": 1.10143,
+      "volume": 0.0,
+      "tickVolume": 56,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:34:00Z",
+      "open": 1.10143,
+      "high": 1.10149,
+      "low": 1.10142,
+      "close": 1.10145,
+      "volume": 0.0,
+      "tickVolume": 49,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:35:00Z",
+      "open": 1.10146,
+      "high": 1.10148,
+      "low": 1.10115,
+      "close": 1.10115,
+      "volume": 0.0,
+      "tickVolume": 69,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:36:00Z",
+      "open": 1.10115,
+      "high": 1.10118,
+      "low": 1.10073,
+      "close": 1.10081,
+      "volume": 0.0,
+      "tickVolume": 109,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:37:00Z",
+      "open": 1.1008,
+      "high": 1.10111,
+      "low": 1.1008,
+      "close": 1.10106,
+      "volume": 0.0,
+      "tickVolume": 83,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:38:00Z",
+      "open": 1.10107,
+      "high": 1.10109,
+      "low": 1.10079,
+      "close": 1.10087,
+      "volume": 0.0,
+      "tickVolume": 96,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:39:00Z",
+      "open": 1.10086,
+      "high": 1.10089,
+      "low": 1.10078,
+      "close": 1.1008,
+      "volume": 0.0,
+      "tickVolume": 69,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:40:00Z",
+      "open": 1.10078,
+      "high": 1.1008,
+      "low": 1.10075,
+      "close": 1.10078,
+      "volume": 0.0,
+      "tickVolume": 59,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:41:00Z",
+      "open": 1.10079,
+      "high": 1.10083,
+      "low": 1.10075,
+      "close": 1.10078,
+      "volume": 0.0,
+      "tickVolume": 75,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:42:00Z",
+      "open": 1.10078,
+      "high": 1.10095,
+      "low": 1.10078,
+      "close": 1.10083,
+      "volume": 0.0,
+      "tickVolume": 63,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:43:00Z",
+      "open": 1.10083,
+      "high": 1.10094,
+      "low": 1.10082,
+      "close": 1.10088,
+      "volume": 0.0,
+      "tickVolume": 36,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:44:00Z",
+      "open": 1.10087,
+      "high": 1.10088,
+      "low": 1.10071,
+      "close": 1.10074,
+      "volume": 0.0,
+      "tickVolume": 66,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:45:00Z",
+      "open": 1.10074,
+      "high": 1.10074,
+      "low": 1.10062,
+      "close": 1.10063,
+      "volume": 0.0,
+      "tickVolume": 71,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:46:00Z",
+      "open": 1.10063,
+      "high": 1.1008,
+      "low": 1.10063,
+      "close": 1.10078,
+      "volume": 0.0,
+      "tickVolume": 61,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:47:00Z",
+      "open": 1.10079,
+      "high": 1.10082,
+      "low": 1.10074,
+      "close": 1.10074,
+      "volume": 0.0,
+      "tickVolume": 42,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:48:00Z",
+      "open": 1.10075,
+      "high": 1.10084,
+      "low": 1.10071,
+      "close": 1.10074,
+      "volume": 0.0,
+      "tickVolume": 51,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:49:00Z",
+      "open": 1.10075,
+      "high": 1.10084,
+      "low": 1.10072,
+      "close": 1.10075,
+      "volume": 0.0,
+      "tickVolume": 54,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:50:00Z",
+      "open": 1.10075,
+      "high": 1.10077,
+      "low": 1.10056,
+      "close": 1.10075,
+      "volume": 0.0,
+      "tickVolume": 76,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:51:00Z",
+      "open": 1.10076,
+      "high": 1.10076,
+      "low": 1.10058,
+      "close": 1.10066,
+      "volume": 0.0,
+      "tickVolume": 77,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:52:00Z",
+      "open": 1.10065,
+      "high": 1.10074,
+      "low": 1.10063,
+      "close": 1.1007,
+      "volume": 0.0,
+      "tickVolume": 41,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:53:00Z",
+      "open": 1.10068,
+      "high": 1.10068,
+      "low": 1.10058,
+      "close": 1.10062,
+      "volume": 0.0,
+      "tickVolume": 55,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:54:00Z",
+      "open": 1.10062,
+      "high": 1.10072,
+      "low": 1.10059,
+      "close": 1.10067,
+      "volume": 0.0,
+      "tickVolume": 54,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:55:00Z",
+      "open": 1.10067,
+      "high": 1.10073,
+      "low": 1.10056,
+      "close": 1.10069,
+      "volume": 0.0,
+      "tickVolume": 55,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:56:00Z",
+      "open": 1.10069,
+      "high": 1.10078,
+      "low": 1.10069,
+      "close": 1.10073,
+      "volume": 0.0,
+      "tickVolume": 34,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:57:00Z",
+      "open": 1.10073,
+      "high": 1.10086,
+      "low": 1.10073,
+      "close": 1.10081,
+      "volume": 0.0,
+      "tickVolume": 59,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:58:00Z",
+      "open": 1.1008,
+      "high": 1.10093,
+      "low": 1.1008,
+      "close": 1.1009,
+      "volume": 0.0,
+      "tickVolume": 61,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T09:59:00Z",
+      "open": 1.10089,
+      "high": 1.10105,
+      "low": 1.10089,
+      "close": 1.10096,
+      "volume": 0.0,
+      "tickVolume": 64,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:00:00Z",
+      "open": 1.10096,
+      "high": 1.10097,
+      "low": 1.10083,
+      "close": 1.10083,
+      "volume": 0.0,
+      "tickVolume": 70,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:01:00Z",
+      "open": 1.10082,
+      "high": 1.1009,
+      "low": 1.1008,
+      "close": 1.10083,
+      "volume": 0.0,
+      "tickVolume": 48,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:02:00Z",
+      "open": 1.10083,
+      "high": 1.10092,
+      "low": 1.10076,
+      "close": 1.10092,
+      "volume": 0.0,
+      "tickVolume": 64,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:03:00Z",
+      "open": 1.10092,
+      "high": 1.10093,
+      "low": 1.10088,
+      "close": 1.1009,
+      "volume": 0.0,
+      "tickVolume": 39,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:04:00Z",
+      "open": 1.1009,
+      "high": 1.10105,
+      "low": 1.1008,
+      "close": 1.10089,
+      "volume": 0.0,
+      "tickVolume": 59,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:05:00Z",
+      "open": 1.10089,
+      "high": 1.10091,
+      "low": 1.10079,
+      "close": 1.10091,
+      "volume": 0.0,
+      "tickVolume": 37,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:06:00Z",
+      "open": 1.1009,
+      "high": 1.1009,
+      "low": 1.10072,
+      "close": 1.10076,
+      "volume": 0.0,
+      "tickVolume": 65,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:07:00Z",
+      "open": 1.10078,
+      "high": 1.10102,
+      "low": 1.10076,
+      "close": 1.10101,
+      "volume": 0.0,
+      "tickVolume": 64,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:08:00Z",
+      "open": 1.10101,
+      "high": 1.10107,
+      "low": 1.10088,
+      "close": 1.10103,
+      "volume": 0.0,
+      "tickVolume": 69,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:09:00Z",
+      "open": 1.10105,
+      "high": 1.10116,
+      "low": 1.101,
+      "close": 1.10111,
+      "volume": 0.0,
+      "tickVolume": 62,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:10:00Z",
+      "open": 1.10112,
+      "high": 1.10116,
+      "low": 1.10104,
+      "close": 1.10116,
+      "volume": 0.0,
+      "tickVolume": 59,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:11:00Z",
+      "open": 1.10116,
+      "high": 1.10121,
+      "low": 1.10106,
+      "close": 1.10109,
+      "volume": 0.0,
+      "tickVolume": 59,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:12:00Z",
+      "open": 1.10112,
+      "high": 1.10116,
+      "low": 1.1011,
+      "close": 1.10115,
+      "volume": 0.0,
+      "tickVolume": 51,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:13:00Z",
+      "open": 1.10115,
+      "high": 1.10118,
+      "low": 1.1011,
+      "close": 1.10116,
+      "volume": 0.0,
+      "tickVolume": 52,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:14:00Z",
+      "open": 1.10116,
+      "high": 1.10117,
+      "low": 1.10101,
+      "close": 1.10103,
+      "volume": 0.0,
+      "tickVolume": 51,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:15:00Z",
+      "open": 1.10104,
+      "high": 1.10116,
+      "low": 1.10103,
+      "close": 1.10109,
+      "volume": 0.0,
+      "tickVolume": 69,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:16:00Z",
+      "open": 1.10108,
+      "high": 1.10113,
+      "low": 1.10099,
+      "close": 1.10103,
+      "volume": 0.0,
+      "tickVolume": 59,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:17:00Z",
+      "open": 1.10103,
+      "high": 1.10112,
+      "low": 1.10102,
+      "close": 1.10112,
+      "volume": 0.0,
+      "tickVolume": 46,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:18:00Z",
+      "open": 1.10111,
+      "high": 1.10116,
+      "low": 1.10101,
+      "close": 1.10101,
+      "volume": 0.0,
+      "tickVolume": 65,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:19:00Z",
+      "open": 1.101,
+      "high": 1.10112,
+      "low": 1.10099,
+      "close": 1.10109,
+      "volume": 0.0,
+      "tickVolume": 53,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:20:00Z",
+      "open": 1.1011,
+      "high": 1.10124,
+      "low": 1.10106,
+      "close": 1.10124,
+      "volume": 0.0,
+      "tickVolume": 59,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:21:00Z",
+      "open": 1.10125,
+      "high": 1.10158,
+      "low": 1.10124,
+      "close": 1.10158,
+      "volume": 0.0,
+      "tickVolume": 53,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:22:00Z",
+      "open": 1.10156,
+      "high": 1.10156,
+      "low": 1.10138,
+      "close": 1.10148,
+      "volume": 0.0,
+      "tickVolume": 57,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:23:00Z",
+      "open": 1.10149,
+      "high": 1.1015,
+      "low": 1.10137,
+      "close": 1.10146,
+      "volume": 0.0,
+      "tickVolume": 54,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:24:00Z",
+      "open": 1.10145,
+      "high": 1.10147,
+      "low": 1.10138,
+      "close": 1.1014,
+      "volume": 0.0,
+      "tickVolume": 44,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:25:00Z",
+      "open": 1.10139,
+      "high": 1.10145,
+      "low": 1.10128,
+      "close": 1.10143,
+      "volume": 0.0,
+      "tickVolume": 60,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:26:00Z",
+      "open": 1.10141,
+      "high": 1.10142,
+      "low": 1.10133,
+      "close": 1.10142,
+      "volume": 0.0,
+      "tickVolume": 34,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:27:00Z",
+      "open": 1.10143,
+      "high": 1.1015,
+      "low": 1.10136,
+      "close": 1.10142,
+      "volume": 0.0,
+      "tickVolume": 47,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:28:00Z",
+      "open": 1.10139,
+      "high": 1.10147,
+      "low": 1.10133,
+      "close": 1.10147,
+      "volume": 0.0,
+      "tickVolume": 49,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:29:00Z",
+      "open": 1.10147,
+      "high": 1.1015,
+      "low": 1.10138,
+      "close": 1.10138,
+      "volume": 0.0,
+      "tickVolume": 63,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:30:00Z",
+      "open": 1.10138,
+      "high": 1.10155,
+      "low": 1.10136,
+      "close": 1.10155,
+      "volume": 0.0,
+      "tickVolume": 71,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:31:00Z",
+      "open": 1.10155,
+      "high": 1.10161,
+      "low": 1.10147,
+      "close": 1.10153,
+      "volume": 0.0,
+      "tickVolume": 54,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:32:00Z",
+      "open": 1.10151,
+      "high": 1.10154,
+      "low": 1.10148,
+      "close": 1.10152,
+      "volume": 0.0,
+      "tickVolume": 36,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:33:00Z",
+      "open": 1.10152,
+      "high": 1.10156,
+      "low": 1.10144,
+      "close": 1.10145,
+      "volume": 0.0,
+      "tickVolume": 48,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:34:00Z",
+      "open": 1.10147,
+      "high": 1.10151,
+      "low": 1.10136,
+      "close": 1.10137,
+      "volume": 0.0,
+      "tickVolume": 42,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:35:00Z",
+      "open": 1.10137,
+      "high": 1.10138,
+      "low": 1.10123,
+      "close": 1.10123,
+      "volume": 0.0,
+      "tickVolume": 47,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:36:00Z",
+      "open": 1.10123,
+      "high": 1.10127,
+      "low": 1.10109,
+      "close": 1.10118,
+      "volume": 0.0,
+      "tickVolume": 67,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:37:00Z",
+      "open": 1.10118,
+      "high": 1.10125,
+      "low": 1.10116,
+      "close": 1.10122,
+      "volume": 0.0,
+      "tickVolume": 48,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:38:00Z",
+      "open": 1.10123,
+      "high": 1.10126,
+      "low": 1.10122,
+      "close": 1.10122,
+      "volume": 0.0,
+      "tickVolume": 34,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:39:00Z",
+      "open": 1.10121,
+      "high": 1.10136,
+      "low": 1.10118,
+      "close": 1.10135,
+      "volume": 0.0,
+      "tickVolume": 38,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:40:00Z",
+      "open": 1.10135,
+      "high": 1.10137,
+      "low": 1.10113,
+      "close": 1.10114,
+      "volume": 0.0,
+      "tickVolume": 57,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:41:00Z",
+      "open": 1.10114,
+      "high": 1.10114,
+      "low": 1.10103,
+      "close": 1.10107,
+      "volume": 0.0,
+      "tickVolume": 47,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:42:00Z",
+      "open": 1.10107,
+      "high": 1.1011,
+      "low": 1.10102,
+      "close": 1.10107,
+      "volume": 0.0,
+      "tickVolume": 78,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:43:00Z",
+      "open": 1.10109,
+      "high": 1.10109,
+      "low": 1.10088,
+      "close": 1.10091,
+      "volume": 0.0,
+      "tickVolume": 54,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:44:00Z",
+      "open": 1.10089,
+      "high": 1.10092,
+      "low": 1.10081,
+      "close": 1.10088,
+      "volume": 0.0,
+      "tickVolume": 48,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:45:00Z",
+      "open": 1.10089,
+      "high": 1.10092,
+      "low": 1.10082,
+      "close": 1.10092,
+      "volume": 0.0,
+      "tickVolume": 59,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:46:00Z",
+      "open": 1.10092,
+      "high": 1.101,
+      "low": 1.10089,
+      "close": 1.10089,
+      "volume": 0.0,
+      "tickVolume": 56,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:47:00Z",
+      "open": 1.10089,
+      "high": 1.10089,
+      "low": 1.10068,
+      "close": 1.10076,
+      "volume": 0.0,
+      "tickVolume": 60,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:48:00Z",
+      "open": 1.10076,
+      "high": 1.10078,
+      "low": 1.10073,
+      "close": 1.10078,
+      "volume": 0.0,
+      "tickVolume": 28,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:49:00Z",
+      "open": 1.10077,
+      "high": 1.10083,
+      "low": 1.10072,
+      "close": 1.10073,
+      "volume": 0.0,
+      "tickVolume": 51,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:50:00Z",
+      "open": 1.10073,
+      "high": 1.10074,
+      "low": 1.10063,
+      "close": 1.10072,
+      "volume": 0.0,
+      "tickVolume": 62,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:51:00Z",
+      "open": 1.10072,
+      "high": 1.10072,
+      "low": 1.10057,
+      "close": 1.10061,
+      "volume": 0.0,
+      "tickVolume": 52,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:52:00Z",
+      "open": 1.10061,
+      "high": 1.10061,
+      "low": 1.10042,
+      "close": 1.10047,
+      "volume": 0.0,
+      "tickVolume": 56,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:53:00Z",
+      "open": 1.10045,
+      "high": 1.10051,
+      "low": 1.10044,
+      "close": 1.10049,
+      "volume": 0.0,
+      "tickVolume": 46,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:54:00Z",
+      "open": 1.10048,
+      "high": 1.10052,
+      "low": 1.10041,
+      "close": 1.1005,
+      "volume": 0.0,
+      "tickVolume": 49,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:55:00Z",
+      "open": 1.1005,
+      "high": 1.10052,
+      "low": 1.10037,
+      "close": 1.10042,
+      "volume": 0.0,
+      "tickVolume": 48,
+      "isOpen": false
+    },
+    {
+      "openTime": "2026-11-16T10:56:00Z",
+      "open": 1.10043,
+      "high": 1.10046,
+      "low": 1.10036,
+      "close": 1.10044,
+      "volume": 0.0,
+      "tickVolume": 53,
       "isOpen": false
     }
   ]
